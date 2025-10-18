@@ -217,23 +217,5 @@ def compare_properties(street1: str, street2: str):
 
     return result
 
-# ---------- 6. Geospatial Property Map ----------
+ 
 
-
-@app.get("/property-map", response_model=List[Dict[str, Any]])
-def property_map():
-    properties = fetch_properties()
-    map_data = []
-
-    for p in properties:
-        price = parse_number(p.get("price"))
-        if not price:
-            continue
-        map_data.append({
-            "street": p["address"]["street"],
-            "price": price,
-            "latitude": p["coordinates"]["latitude"],
-            "longitude": p["coordinates"]["longitude"]
-        })
-
-    return map_data
