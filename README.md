@@ -1,5 +1,4 @@
 ## Belmont North Property Intelligence
-Overview
 
 Belmont North Property Intelligence is a comprehensive property data solution that provides actionable insights into the real estate market of Belmont North, NSW.
 
@@ -7,7 +6,7 @@ It processes property data including prices, bedrooms, bathrooms, land size, and
 
 Features
 -------------------------------------------
-1. Suburb Summary
+## 1. Suburb Summary
 
 Provides a complete overview of the suburb:
 
