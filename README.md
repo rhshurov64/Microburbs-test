@@ -93,16 +93,5 @@ Land size, price per m²
 Use Case: Makes evaluating multiple options easier for buyers or investors.
 
 
-6. Property Map Data
--------------------------------------------
-
-Provides geolocation and price information:
-
-Visualize properties on a map
-
-Identify clusters and pricing hotspots
-
-Use Case: Helps investors and professionals analyze property distribution geographically.
-
 
 
