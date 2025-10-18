@@ -1,7 +1,15 @@
-Features
+## Belmont North Property Intelligence
+Overview
 
-Suburb Summary
-Provides a complete overview of the suburb, including:
+Belmont North Property Intelligence is a comprehensive property data solution that provides actionable insights into the real estate market of Belmont North, NSW.
+
+It processes property data including prices, bedrooms, bathrooms, land size, and property types to help buyers, families, investors, and real estate professionals make data-driven decisions.
+
+Features
+-------------------------------------------
+1. Suburb Summary
+
+Provides a complete overview of the suburb:
 
 Average and median property prices
 
@@ -9,55 +17,84 @@ Average number of bedrooms and bathrooms
 
 Average land size
 
-Most common property types and their counts
-Use Case: Quickly understand the property market landscape and identify common trends in Belmont North.
+Property type distribution
 
-Property Search & Filter
-Allows filtering properties based on:
+Use Case: Quickly understand market trends and property patterns in Belmont North.
+
+2. Property Search & Filter
+
+Filter properties based on:
 
 Price range
 
 Number of bedrooms and bathrooms
 
 Property type
-Use Case: Helps potential buyers and renters find properties that match their specific requirements.
 
-Property Ranking
+Use Case: Helps buyers and renters find properties that meet their specific needs.
+
+3. Property Ranking
+
 Highlights:
 
 Top 3 most expensive properties
 
-Top 3 properties with the best value (price per square meter)
-Use Case: Ideal for investors looking for high-value or premium properties.
+Top 3 best value properties (price per m²)
 
-Family-Friendly Properties
-Scores properties based on suitability for families using criteria like:
+Use Case: Ideal for investors looking for premium or high-value properties.
 
-3 or more bedrooms
+4. Family-Friendly Properties
 
-2 or more bathrooms
+Scores properties based on family suitability:
+
+3+ bedrooms
+
+2+ bathrooms
 
 Land size over 500 m²
-Use Case: Assists families in identifying properties that provide space, comfort, and lifestyle.
 
-Property Comparison
-Enables side-by-side comparison of multiple properties considering:
+Use Case: Helps families quickly identify homes that provide space, comfort, and lifestyle.
 
-Price
+5. Property Comparison
 
-Bedrooms
+Compare multiple properties side by side:
 
-Bathrooms
+Price, bedrooms, bathrooms
 
-Land size
+Land size, price per m²
 
-Price per square meter
-Use Case: Helps buyers make informed decisions by comparing multiple options in one view.
+Use Case: Makes evaluating multiple options easier for buyers or investors.
 
-Property Map Data
-Provides geolocation and price information for properties, enabling:
+6. Property Map Data
 
-Visualization on maps
+Provides geolocation and price information:
 
-Identification of property clusters and pricing hotspots
-Use Case: Useful for planners, investors, and real estate professionals to identify market trends geographically.
+Visualize properties on a map
+
+Identify clusters and pricing hotspots
+
+Use Case: Helps investors and professionals analyze property distribution geographically.
+
+7. Property Alerts
+
+Identify properties matching specific criteria:
+
+Maximum price
+
+Minimum number of bedrooms
+
+Use Case: Useful for notifying buyers or investors when new suitable properties become available.
+
+8. All Properties
+
+Returns a complete dataset of all properties in Belmont North, including:
+
+Street, suburb, state
+
+Price, bedrooms, bathrooms, land size
+
+Property type, listing date, description
+
+Latitude and longitude
+
+Use Case: Ideal for exporting full property data or building dashboards.
