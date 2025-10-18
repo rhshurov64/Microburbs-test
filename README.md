@@ -4,6 +4,10 @@ Belmont North Property Intelligence is a comprehensive property data solution th
 
 It processes property data including prices, bedrooms, bathrooms, land size, and property types to help buyers, families, investors, and real estate professionals make data-driven decisions.
 
+## Use Case:
+Users can use this application to find the best property for them, by analysing all the peroperty, search or filtering the peroperty, comparing diffrent property details.
+
+
 Features
 -------------------------------------------
 
